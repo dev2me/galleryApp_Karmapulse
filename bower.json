@@ -1,0 +1,11 @@
+{
+  "name": "KLab_Machinita",
+  "version": "0.0.0",
+  "private": true,
+  "authors": [
+    "Mario Andrade <mario@kamikazelab.com>"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}

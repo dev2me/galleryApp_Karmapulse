@@ -1,0 +1,17 @@
+{
+  "name": "kLabMachinita",
+  "version": "0.0.0",
+  "private": true,
+  "authors": [
+    "Mario Andrade <mario@kamikazelab.com>"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-watch": "^4.2.4"
+  }
+}

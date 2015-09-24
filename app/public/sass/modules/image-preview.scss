@@ -1,0 +1,41 @@
+
+
+
+
+.image-preview {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+    margin-top: 25px;
+    height: 200px;
+    width: 100%;
+
+    .image {
+        width: 50%;
+        height: 400px;
+        h1 {
+            color: #424242;
+            font-weight: 800;
+            font-size: 20px;
+            margin: 30px 60px;
+        }
+        img {
+            margin-left: 60px;
+            width: 600px;
+            height: 400px;
+            border-radius: 2px;
+        }
+    }
+
+    .info {
+        width: 20%;
+        height: 300px;
+        padding-top:220px;
+        background-color: red;
+
+        color: $graylight;
+    }
+
+
+}
