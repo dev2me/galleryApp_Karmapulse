@@ -1,1 +1,1 @@
-KamikazeLab Machinita
+Pair programming - Gallery Image
